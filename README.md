@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+
 -->
+
+<hr>
+<p align="center">
+  <img src="https://github.com/Osorio3408/Osorio3408/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
