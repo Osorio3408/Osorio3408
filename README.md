@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola 👋 , soy Yuliam Andrey Osorio Puerta</h1><h3 align="center">Soy un joven desarrollador apasionado por aprender nuevas tecnologías y en cualquier tema de tecnología, me apasiona el backend y el frontend, por lo que soy muy versátil.</h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=osorio3408&label=Profile%20views&color=0e75b6&style=flat" alt="osorio3408" /> </p>
+<h1 align="center">Hi 👋 I Yuliam Andrey Osorio Puerta</h1><h3 align="center">I am a young developer passionate about learning new technologies and on any subject of technology, I am passionate about backend and frontend, so I am very versatile</h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=osorio3408&label=Profile%20views&color=0e75b6&style=flat" alt="osorio3408" /> </p>
 
 
 
