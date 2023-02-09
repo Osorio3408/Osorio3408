@@ -17,7 +17,7 @@
 
 
 
-<a href="https://linkedin.com/in/yuliam osorio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yuliam Osorio" height="30" width="40" /></a><a href="https://instagram.com/yosorio34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yosorio34" height="30" width="40" />
+<a href="https://linkedin.com/in/yuliam-osorio-574b64264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yuliam Osorio" height="30" width="40" /></a><a href="https://instagram.com/yosorio34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yosorio34" height="30" width="40" />
 </a>
 </p>
 
