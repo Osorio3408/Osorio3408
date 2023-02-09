@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 -->
 
 <hr>
+[![GitHub contributors](https://img.shields.io/github/contributors/Osorio3408/Osorio3408.svg)](https://github.com/Osorio3408/Osorio3408/graphs/contributors)
+
+
+<hr>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
