@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osorio3408" alt="osorio3408" /></a> </p><h3 align="left">Conéctate conmigo:</h3><p align="left">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osorio3408" alt="osorio3408" /></a> </p><h3 align="left">Conéctate conmigo:</h3><p align="left">
 
 
 
