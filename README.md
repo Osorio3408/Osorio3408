@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <hr>
-<p align="center">
-  <img src="https://github.com/Osorio3408/Osorio3408/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
 </p>
